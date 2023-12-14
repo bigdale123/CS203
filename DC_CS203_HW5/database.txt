@@ -1,0 +1,4 @@
+C,John,Doe,jdoe@gmail.com,12055551234
+BC,John,Doe,Farenheit 451,Ray Bradbury,158,Simon & Schuster Paperbacks,1
+BS,The Memoirs of Sherlock Holmes,Sir Arthur Conan Doyle,256,Reader's Digest,1
+BS,The Return of Sherlock Holmes,Sir Arthur Conan Doyle,256,Reader's Digest,1

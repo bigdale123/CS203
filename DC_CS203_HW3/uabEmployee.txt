@@ -1,0 +1,11 @@
+E Lucy 1995
+S Steve 4345 Brain Y
+R Alice 4101 Talking Y
+J David 4789 Maintenance N
+J Scruffy 5 Maintenance Y
+N Julia 1254 4
+N Joy 6 12
+A Jacob 4123 Business
+A Catherine 4125 Management
+D John 1187 Gastro
+D Samuel 4891 Radiology
